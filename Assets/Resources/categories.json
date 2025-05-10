@@ -1,0 +1,140 @@
+[
+    {
+        "Name": "New Collection",
+        "Products": [
+            {
+                "ProductId": "B001",
+                "Name": "King Size Bed",
+                "Description": "Spacious and comfortable bed",
+                "Cost": 499.99
+            },
+            {
+                "ProductId": "B002",
+                "Name": "Nightstand",
+                "Description": "Wooden nightstand with drawer",
+                "Cost": 129.99
+            },
+            {
+                "ProductId": "B003",
+                "Name": "Wardrobe",
+                "Description": "Large 3-door wardrobe",
+                "Cost": 799.99
+            }
+        ]
+    },
+    {
+        "Name": "Bedroom",
+        "Products": [
+            {
+                "ProductId": "B001",
+                "Name": "King Size Bed",
+                "Description": "Spacious and comfortable bed",
+                "Cost": 499.99
+            },
+            {
+                "ProductId": "B002",
+                "Name": "Nightstand",
+                "Description": "Wooden nightstand with drawer",
+                "Cost": 129.99
+            },
+            {
+                "ProductId": "B003",
+                "Name": "Wardrobe",
+                "Description": "Large 3-door wardrobe",
+                "Cost": 799.99
+            }
+        ]
+    },
+    {
+        "Name": "DiningRoom",
+        "Products": [
+            {
+                "ProductId": "D001",
+                "Name": "Dining Table Set",
+                "Description": "Modern dining table with 6 chairs",
+                "Cost": 899.99
+            },
+            {
+                "ProductId": "D002",
+                "Name": "Sideboard",
+                "Description": "Spacious sideboard for storage",
+                "Cost": 499.99
+            },
+            {
+                "ProductId": "D003",
+                "Name": "Bar Stool",
+                "Description": "High bar stool with cushion",
+                "Cost": 89.99
+            }
+        ]
+    },
+    {
+        "Name": "Kitchen",
+        "Products": [
+            {
+                "ProductId": "K001",
+                "Name": "Blender",
+                "Description": "High-speed blender for smoothies",
+                "Cost": 89.99
+            },
+            {
+                "ProductId": "K002",
+                "Name": "Microwave Oven",
+                "Description": "Compact microwave with grill",
+                "Cost": 199.99
+            },
+            {
+                "ProductId": "K003",
+                "Name": "Coffee Maker",
+                "Description": "Automatic espresso machine",
+                "Cost": 349.99
+            }
+        ]
+    },
+    {
+        "Name": "LivingRoom",
+        "Products": [
+            {
+                "ProductId": "L001",
+                "Name": "Sofa",
+                "Description": "Comfortable 3-seater sofa",
+                "Cost": 699.99
+            },
+            {
+                "ProductId": "L002",
+                "Name": "TV Stand",
+                "Description": "Modern TV stand with shelves",
+                "Cost": 249.99
+            },
+            {
+                "ProductId": "L003",
+                "Name": "Coffee Table",
+                "Description": "Glass-top coffee table",
+                "Cost": 199.99
+            }
+        ]
+    },
+    {
+        "Name": "Office",
+        "Products": [
+            {
+                "ProductId": "O001",
+                "Name": "Office Chair",
+                "Description": "Ergonomic office chair with lumbar support",
+                "Cost": 149.99
+            },
+            {
+                "ProductId": "O002",
+                "Name": "Desk",
+                "Description": "Spacious office desk with drawers",
+                "Cost": 399.99
+            },
+            {
+                "ProductId": "O003",
+                "Name": "Bookshelf",
+                "Description": "Tall bookshelf with 4 shelves",
+                "Cost": 179.99
+            }
+        ]
+    }
+]
